@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\bin\Debug\BTL.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\bin\Debug\BTL.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\bin\Debug\BTL.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.pdb
