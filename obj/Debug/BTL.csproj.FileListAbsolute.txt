@@ -8,3 +8,10 @@ C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.csproj.GenerateRe
 C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.exe
 C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\bin\Debug\Db4objects.Db4o.dll
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\bin\Debug\Cecil.FlowAnalysis.dll
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\bin\Debug\Mono.Cecil.dll
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\bin\Debug\Db4objects.Db4o.xml
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.csproj.Up2Date
+C:\Users\Admin\source\repos\WindowsFormsApp1\BTL\obj\Debug\BTL.Form2.resources
